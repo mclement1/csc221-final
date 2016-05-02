@@ -1,0 +1,10 @@
+     61 /images/NASA-logosmall.gif
+     61 /images/KSC-logosmall.gif
+     39 /shuttle/countdown/
+     38 /shuttle/countdown/count.gif
+     26 /shuttle/missions/sts-71/images/images.html
+     25 /images/WORLD-logosmall.gif
+     25 /images/MOSAIC-logosmall.gif
+     24 /shuttle/missions/sts-71/sts-71-patch-small.gif
+     24 /images/ksclogo-medium.gif
+     24 /images/USA-logosmall.gif
